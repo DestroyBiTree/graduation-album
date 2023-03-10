@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'LiDeBiao-Xing3';
+    src: url('./static/LiDeBiao-Xing-30.woff2') format('woff2'),
+        url('./static/LiDeBiao-Xing-30.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+	
+	
+}
+@font-face {
+    font-family: 'HYWaiWaiTiJ';
+    src: url('./static/HYWaiWaiTiJ.woff2') format('woff2'),
+        url('./static/HYWaiWaiTiJ.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
